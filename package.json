@@ -1,0 +1,24 @@
+{
+  "name": "testing101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.8.0",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^24.8.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost:1234/"
+  }
+}
