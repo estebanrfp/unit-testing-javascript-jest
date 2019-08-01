@@ -8,7 +8,7 @@
     "test": "jest --watchAll"
   },
   "keywords": [],
-  "author": "",
+  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.5.5",
